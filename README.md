@@ -38,7 +38,7 @@ Este proyecto implementa un modelo de Regresión Logística en Python. El códig
 
 9. **Predicciones y Precisión:**
 
-   Finalmente, se utilizan los coeficientes entrenados para realizar predicciones en el conjunto de prueba. La precisión del modelo se calcula y se imprime en la consola.
+   Finalmente, se utilizan los coeficientes entrenados para realizar predicciones en el conjunto de prueba. La precisión del modelo se calcula y se imprime en la consola. Ademas se grafica la función de costo en función del número de iteraciones
 
 ## Uso del Proyecto
 
