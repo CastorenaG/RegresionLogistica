@@ -46,7 +46,7 @@ Este proyecto implementa un modelo de Regresión Logística en Python. El códig
 
 - Asegúrate de tener Python 3.x instalado y las bibliotecas requeridas (pandas y numpy).
 
-- Ejecuta el script `logistic_regression.py` para entrenar el modelo y obtener la precisión del mismo.
+- Ejecuta el script `RegresionLogistica.py` para entrenar el modelo y obtener la precisión del mismo.
 
 ## Contribuciones
 
